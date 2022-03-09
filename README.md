@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm UMUT AY ALPER</h1>
 <h3 align="center">I am a computer science engineering student in Gebze Technical University from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ualper&label=Profile%20views&color=0e75b6&style=flat" alt="ualper" /> </p>
 
 - 🔭 I’m currently working on **Flutter, Swift, iOS & Android Mobile App Developing**
 
