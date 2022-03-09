@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ualper&label=Profile%20views&color=0e75b6&style=flat" alt="ualper" /> </p>
 
-- 🔭 I’m currently working on **Flutter, iOS, Android Mobile App Developing**
+- 🔭 I’m currently working on **Flutter, Swift, iOS & Android Mobile App Developing**
 
-- 🌱 I’m currently learning **Computer Vision and Machine Learning**
+- 🌱 I’m currently learning **Swift UI, Computer Vision and Machine Learning**
 
-- 💬 Ask me about **java, c, c++, dart, flutter, iOS**
+- 💬 Ask me about **java, c, c++, dart, flutter, Swift, iOS**
 
 - 📫 How to reach me **u.alper@outlook.com**
 
