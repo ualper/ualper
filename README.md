@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Flutter, Swift, iOS & Android Mobile App Developing**
 
-- 🌱 I’m currently learning **Swift UI, Computer Vision and Machine Learning**
+- 🌱 I’m currently learning **Swift UI, Swift,  iOS Developing, Artificial Intelligence, Computer Vision and Machine Learning**
 
-- 💬 Ask me about **java, c, c++, dart, flutter, Swift, iOS**
+- 💬 Ask me about **java, C, C++, Flutter, Swift, iOS**
 
 - 📫 How to reach me **u.alper@outlook.com**
 
