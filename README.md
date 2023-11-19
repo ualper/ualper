@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Swift UI, Swift,  iOS Developing, Artificial Intelligence, Computer Vision and Machine Learning**
 
-- 💬 Ask me about **java, C, C++, Flutter, Swift, iOS**
+- 💬 Ask me about **Java, C, C++, Flutter, Swift **
 
 - 📫 How to reach me **u.alper@outlook.com**
 
