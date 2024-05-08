@@ -2,7 +2,7 @@
 <h3 align="center">I am a computer science engineering student in Gebze Technical University from Turkey.</h3>
 
 
-- 🔭 I’m currently working on **Flutter, Swift, iOS & Android Mobile App Developing**
+- 🔭 I’m currently working on **C, C++, Java, Flutter, Swift, iOS & Android Mobile App Developing**
 
 - 🌱 I’m currently learning **Swift UI, Swift,  iOS Developing, Artificial Intelligence, Computer Vision and Machine Learning**
 
