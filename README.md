@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **C, C++, Java, Flutter, Swift, iOS & Android Mobile App Developing**
 
-- 🌱 I’m currently learning **Swift UI, Swift,  iOS Developing, Artificial Intelligence, Computer Vision and Machine Learning**
+- 🌱 I’m currently learning **Swift UI, Swift,  iOS Developing, Unity, Artificial Intelligence, Computer Vision and Machine Learning**
 
-- 💬 Ask me about **Java, C, C++, Flutter, Swift **
+- 💬 Ask me about **Java, C, C++, Flutter, Swift, iOS **
 
-- 📫 How to reach me **u.alper@outlook.com**
+- 📫 How to reach me : **u.alper@outlook.com**
 
 <h3 align="left">Connect with me:  +90 541 678 2375</h3>
 <p align="left">
